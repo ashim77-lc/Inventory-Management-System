@@ -23,16 +23,13 @@ Coming soon...
 ## 📁 Project Structure
 Inventory/
 ├── app.py
-
 ├── database.py
-
 └── templates/
-
-  ├── login.html
-  ├── register.html
-  ├── home.html
-  ├── add.html
-  └── edit.html
+├── login.html
+├── register.html
+├── home.html
+├── add.html
+└── edit.html
 
 ## ▶ How to Run
 1. Install Flask: `pip install flask`
