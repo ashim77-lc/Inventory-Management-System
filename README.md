@@ -32,6 +32,26 @@ Inventory/
     ├── add.html
     └── edit.html
 ```
+## 📸 Screenshots
+
+### Login Page
+![Login](login.jpeg)
+
+### Register Page
+![Register](register.jpeg)
+
+### Dashboard
+![Dashboard](dashboard.jpeg)
+
+### Add Product
+![Add Product](add_product.jpeg)
+
+### Low Stock Alert
+![Low Stock](low_stock.jpeg)
+
+### Edit product
+![Edit product](edit_product.jpeg)
+
 ## ▶ How to Run
 1. Install Flask: `pip install flask`
 2. Run database setup: `python database.py`
